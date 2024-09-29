@@ -1,6 +1,6 @@
 int[][] cells, temp;
 
-int grid_size = 1;
+int grid_size = 10;
 int rows;
 int cols;
 
