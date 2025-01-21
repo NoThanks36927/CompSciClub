@@ -2,7 +2,7 @@ double pr;
 double pi;
 double scale = 0.01;
 
-int bailout = 100;
+int bailout = 1000;
 
 void setup()
 {
@@ -16,8 +16,8 @@ void draw()
 
 void render()
 {
-  color white = color(255, 255, 255);
-  color black = color(0, 0, 0);
+  color white = color(255);
+  color black = color(0);
   
   loadPixels();
   for (int i = 0; i < width; i++)
