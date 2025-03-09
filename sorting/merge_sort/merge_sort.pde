@@ -42,7 +42,7 @@ void setup()
   
   sort(0, n - 1);
   
-  frameRate(5);
+  frameRate(10);
 }
 
 void sort(int l, int r)

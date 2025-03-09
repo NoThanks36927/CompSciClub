@@ -41,7 +41,7 @@ void setup()
   
   sort();
   
-  frameRate(5);
+  frameRate(10);
 }
 
 void sort()
