@@ -1,0 +1,14 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+IB subjects
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}itemize\PYG{n+nb}{\PYGZcb{}}
+	\PYG{k}{\PYGZbs{}item} Finnish
+	\PYG{k}{\PYGZbs{}item} English
+	\PYG{k}{\PYGZbs{}item} Mathematics
+	\PYG{k}{\PYGZbs{}item} Economics
+	\PYG{k}{\PYGZbs{}item} History
+	\PYG{k}{\PYGZbs{}item} Chemistry
+	\PYG{k}{\PYGZbs{}item} Physics
+	\PYG{k}{\PYGZbs{}item} Biology
+	\PYG{k}{\PYGZbs{}item} Computer Science
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}itemize\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

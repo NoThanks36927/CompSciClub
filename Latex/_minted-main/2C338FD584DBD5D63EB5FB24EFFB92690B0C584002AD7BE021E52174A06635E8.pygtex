@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}addplot}\PYG{n+na}{[]} coordinates\PYG{n+nb}{\PYGZob{}}(0,0) (10,10)\PYG{n+nb}{\PYGZcb{}} node[right]\PYG{n+nb}{\PYGZob{}}\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{f}\PYG{l+s}{\PYGZdl{}}\PYG{n+nb}{\PYGZcb{}};
+\end{Verbatim}

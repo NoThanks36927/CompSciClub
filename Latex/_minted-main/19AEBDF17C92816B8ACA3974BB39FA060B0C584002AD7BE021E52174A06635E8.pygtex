@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+  Lesson structure
+  \PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+    \PYG{k}{\PYGZbs{}item} Introduction
+    \PYG{k}{\PYGZbs{}item} Syntax
+    \PYG{k}{\PYGZbs{}item} Challenge
+  \PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}node} [left]  at (0,0) \PYG{n+nb}{\PYGZob{}}Label\PYG{n+nb}{\PYGZcb{}};
+\PYG{k}{\PYGZbs{}node} [right] at (0,0) \PYG{n+nb}{\PYGZob{}}Label\PYG{n+nb}{\PYGZcb{}};
+\PYG{k}{\PYGZbs{}node} [above] at (0,0) \PYG{n+nb}{\PYGZob{}}Label\PYG{n+nb}{\PYGZcb{}};
+\PYG{k}{\PYGZbs{}node} [below] at (0,0) \PYG{n+nb}{\PYGZob{}}Label\PYG{n+nb}{\PYGZcb{}};
+
+\PYG{k}{\PYGZbs{}node} at (0,0) \PYG{n+nb}{\PYGZob{}}Label\PYG{n+nb}{\PYGZcb{}};
+\end{Verbatim}

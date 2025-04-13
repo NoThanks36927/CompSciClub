@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}draw} [\PYGZhy{}\PYGZgt{}] (0,0) \PYGZhy{}\PYGZhy{} (10,10);
+\PYG{k}{\PYGZbs{}draw} [\PYGZlt{}\PYGZhy{}] (0,0) \PYGZhy{}\PYGZhy{} (10,10);
+\PYG{k}{\PYGZbs{}draw} [\PYGZlt{}\PYGZhy{}\PYGZgt{}] (0,0) \PYGZhy{}\PYGZhy{} (10,10);
+\end{Verbatim}

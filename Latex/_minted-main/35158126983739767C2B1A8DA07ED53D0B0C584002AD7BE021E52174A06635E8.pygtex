@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{k}{\PYGZbs{}textbf}\PYG{n+nb}{\PYGZob{}}Bolded text.\PYG{n+nb}{\PYGZcb{}}
+	\PYG{k}{\PYGZbs{}textit}\PYG{n+nb}{\PYGZob{}}Italisized text.\PYG{n+nb}{\PYGZcb{}}
+	\PYG{k}{\PYGZbs{}underline}\PYG{n+nb}{\PYGZob{}}Underlined text.\PYG{n+nb}{\PYGZcb{}}
+	\PYG{k}{\PYGZbs{}emph}\PYG{n+nb}{\PYGZob{}}Emphasized text\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,16 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{// Integers}
+\PYG{n}{bit}\PYG{+w}{ }\PYG{n}{mybit}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{l+m+mi}{1}\PYG{p}{;}
+\PYG{k+kt}{byte}\PYG{+w}{ }\PYG{n}{mybyte}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{o}{\PYGZhy{}}\PYG{l+m+mi}{50}\PYG{p}{;}
+\PYG{k+kt}{short}\PYG{+w}{ }\PYG{n}{myshort}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{l+m+mi}{1001}\PYG{p}{;}
+\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n}{myint}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{l+m+mi}{2165750}\PYG{p}{;}
+\PYG{k+kt}{long}\PYG{+w}{ }\PYG{n}{mylong}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{l+m+mi}{9183475235}\PYG{p}{;}
+
+\PYG{c+c1}{// Decimal numbers}
+\PYG{k+kt}{float}\PYG{+w}{ }\PYG{n}{myfloat}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{l+m+mf}{3.5}\PYG{p}{;}
+\PYG{k+kt}{double}\PYG{+w}{ }\PYG{n}{mydouble}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{l+m+mf}{6.34}\PYG{p}{;}
+
+\PYG{c+c1}{// Other}
+\PYG{k+kt}{boolean}\PYG{+w}{ }\PYG{n}{myboolean}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{k+kc}{false}\PYG{p}{;}
+\PYG{k+kt}{char}\PYG{+w}{ }\PYG{n}{mychar}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{l+s+sc}{\PYGZsq{}A\PYGZsq{}}\PYG{p}{;}
+\end{Verbatim}

@@ -1,0 +1,35 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}usepackage}\PYG{n+nb}{\PYGZob{}}pgfplots\PYG{n+nb}{\PYGZcb{}}
+
+\PYG{c}{\PYGZpc{}General style\PYGZpc{}}
+\PYG{k}{\PYGZbs{}pgfplotsset}\PYG{n+nb}{\PYGZob{}}every axis/.append style=\PYG{n+nb}{\PYGZob{}}
+	axis lines = left,
+	xmin = 0,
+	xmax = 10,
+	ymin = 0,
+	ymax = 10,
+	xlabel style = \PYG{n+nb}{\PYGZob{}}anchor = west\PYG{n+nb}{\PYGZcb{}},
+	ylabel style = \PYG{n+nb}{\PYGZob{}}anchor  =south\PYG{n+nb}{\PYGZcb{}},
+    clip = false,
+    ticks = none,
+\PYG{n+nb}{\PYGZcb{}\PYGZcb{}}
+
+\PYG{c}{\PYGZpc{}Functions\PYGZpc{}}
+\PYG{k}{\PYGZbs{}pgfplotsset}\PYG{n+nb}{\PYGZob{}}every axis plot/.append style=\PYG{n+nb}{\PYGZob{}}
+	color=black,
+	samples=100,
+	thick
+\PYG{n+nb}{\PYGZcb{}\PYGZcb{}}
+
+\PYG{c}{\PYGZpc{}Usage\PYGZpc{}}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+...
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+  \PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}axis\PYG{n+nb}{\PYGZcb{}}
+	...
+  \PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}axis\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+...
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+
+\end{Verbatim}

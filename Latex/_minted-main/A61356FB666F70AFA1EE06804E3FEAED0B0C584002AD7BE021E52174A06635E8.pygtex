@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}addplot} [options] coordinates \PYG{n+nb}{\PYGZob{}}(0,0) (10,10)\PYG{n+nb}{\PYGZcb{}};
+\end{Verbatim}
